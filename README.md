@@ -45,3 +45,5 @@
  
 ### 6. 시연영상
 https://youtu.be/2Reik3DYf0A
+
+#### 7. branch -> master 에 코드 올려져있습니다! 
