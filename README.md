@@ -44,4 +44,4 @@
 ![KakaoTalk_20220925_131803476_02](https://user-images.githubusercontent.com/102652126/192131060-9dc82a34-6bbf-4b19-be20-ffc777bac139.png)
  
 ### 6. 시연영상
-https://youtu.be/qa17XfzLZHQ
+https://youtu.be/2Reik3DYf0A
