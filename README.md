@@ -35,6 +35,11 @@
 
 ## 5. 프로젝트에 활용한 기술
 
+![KakaoTalk_20220925_131803476_03](https://user-images.githubusercontent.com/102652126/192131056-c710a98f-d0f1-431b-b8d0-e20ce90bc35e.png)
+![KakaoTalk_20220925_131803476](https://user-images.githubusercontent.com/102652126/192131057-1e50b501-c380-4971-8187-4b25d33a23dc.png)
+![KakaoTalk_20220925_131803476_01](https://user-images.githubusercontent.com/102652126/192131059-8a1f48a1-efd2-49ac-a6d6-104ad75a49eb.png)
+![KakaoTalk_20220925_131803476_02](https://user-images.githubusercontent.com/102652126/192131060-9dc82a34-6bbf-4b19-be20-ffc777bac139.png)
+
 안드로이드 스튜디오에서 개발/ SQLiteDatabase 사용<br>
  : 안드로이드 스튜디오에서 Java와 xml을 이용해 앱을 개발했다. SQLite를 사용해  앱에서 데이터를 생성하고 삭제할 수 있게 했다.
  
